@@ -1,0 +1,134 @@
+{
+    "id": 2,
+    "name": "Olivia Company",
+    "manager_name": "Huy 2",
+    "manager_title": "Director",
+    "children_groups": [
+        {
+            "id": 3,
+            "name": "North America",
+            "manager_name": "Tri",
+            "manager_title": "Software architect",
+            "children_groups": [
+                {
+                    "id": 8,
+                    "name": "Canada",
+                    "manager_name": "Dung",
+                    "manager_title": "HR Executive"
+                },
+                {
+                    "id": 9,
+                    "name": "Mexico",
+                    "manager_name": "Huy Viet",
+                    "manager_title": "Developer"
+                },
+                {
+                    "id": 10,
+                    "name": "US",
+                    "manager_name": "Thanh Luan Test",
+                    "manager_title": "Sub-team leader"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Europe",
+            "manager_name": "Huy 2",
+            "manager_title": "Director",
+            "children_groups": [
+                {
+                    "id": 11,
+                    "name": "Denmark",
+                    "manager_name": null,
+                    "manager_title": null
+                },
+                {
+                    "id": 12,
+                    "name": "Belgium",
+                    "manager_name": null,
+                    "manager_title": null
+                },
+                {
+                    "id": 13,
+                    "name": "Francis",
+                    "manager_name": null,
+                    "manager_title": null
+                },
+                {
+                    "id": 14,
+                    "name": "Germany",
+                    "manager_name": null,
+                    "manager_title": null
+                },
+                {
+                    "id": 24,
+                    "name": "Italia",
+                    "manager_name": null,
+                    "manager_title": null
+                },
+                {
+                    "id": 25,
+                    "name": "England",
+                    "manager_name": null,
+                    "manager_title": null
+                },
+                {
+                    "id": 26,
+                    "name": "Croatia",
+                    "manager_name": null,
+                    "manager_title": null
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Asia",
+            "manager_name": "Huy",
+            "manager_title": "Accountant",
+            "children_groups": [
+                {
+                    "id": 15,
+                    "name": "Taiwan",
+                    "manager_name": null,
+                    "manager_title": null
+                },
+                {
+                    "id": 16,
+                    "name": "Japan",
+                    "manager_name": null,
+                    "manager_title": null
+                },
+                {
+                    "id": 18,
+                    "name": "Philippines",
+                    "manager_name": null,
+                    "manager_title": null
+                },
+                {
+                    "id": 19,
+                    "name": "Mongols",
+                    "manager_name": null,
+                    "manager_title": null
+                },
+                {
+                    "id": 21,
+                    "name": "Laos",
+                    "manager_name": null,
+                    "manager_title": null
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Africa",
+            "manager_name": "Khue",
+            "manager_title": "Project manager"
+        },
+        {
+            "id": 7,
+            "name": "Australia",
+            "manager_name": "Khoa",
+            "manager_title": "Head of HR & Communication"
+        }
+    ]
+}
